@@ -22,6 +22,8 @@ class ChattyStudent < Student
     puts "Pick me!"
     super 
     puts "Pick me!"
+    super 
+    puts "Pick me!"
     
   end 
 end 
