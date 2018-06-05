@@ -1,4 +1,4 @@
-require 'pry'
+
 require_relative "./student.rb"
 class ChattyStudent < Student
   def hello 
@@ -13,6 +13,5 @@ class ChattyStudent < Student
     puts "Pick Me!"
     count += 1 
     end
-    binding.pry 
   end 
 end 
