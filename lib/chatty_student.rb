@@ -10,7 +10,7 @@ class ChattyStudent < Student
     super 
     count = 0 
     while count < 10 
-    puts "Pick Me!"
+    puts "Pick me!"
     count += 1 
     end
   end 
