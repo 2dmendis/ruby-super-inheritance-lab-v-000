@@ -6,26 +6,27 @@ class ChattyStudent < Student
   end 
   
   def raise_hand
-    super 
+    # super 
+    # puts "Pick me!"
+    # super 
+    # puts "Pick me!"
+    # super 
+    # puts "Pick me!"
+    # super 
+    # puts "Pick me!"
+    # super 
+    # puts "Pick me!"
+    # super 
+    # puts "Pick me!"
+    # super 
+    # puts "Pick me!"
+    # super 
+    # puts "Pick me!"
+    # super 
+    # puts "Pick me!"
+    # super 
+    # puts "Pick me!"
+     super super super super super super super super super super
     puts "Pick me!"
-    super 
-    puts "Pick me!"
-    super 
-    puts "Pick me!"
-    super 
-    puts "Pick me!"
-    super 
-    puts "Pick me!"
-    super 
-    puts "Pick me!"
-    super 
-    puts "Pick me!"
-    super 
-    puts "Pick me!"
-    super 
-    puts "Pick me!"
-     super 
-    puts "Pick me!"
-    
   end 
 end 
