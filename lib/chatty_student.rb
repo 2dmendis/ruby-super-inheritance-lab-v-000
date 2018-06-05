@@ -13,5 +13,7 @@ class ChattyStudent < Student
     # puts "Pick me!"
     # count += 1 
     # end
+    super 
+    puts "Pick me!"
   end 
 end 
